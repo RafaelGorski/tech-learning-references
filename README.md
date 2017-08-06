@@ -1,7 +1,12 @@
 # aws-learning-references
 Open repository with list of blogs, books, courses and examples to learn AWS stack.
 
-# Online Courses
+## AWS Modules
+
+### AWS Cloud Formation
+https://aws.amazon.com/pt/cloudformation/ | Provisionamento AWS
+
+### AWS Step Functions
 
 https://www.udemy.com/aws-step-functions/learn/v4/overview | Serverless Workflow Management with AWS Step Functions
 
