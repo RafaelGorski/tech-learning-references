@@ -5,6 +5,8 @@ Open repository with list of blogs, books, courses and examples to learn AWS sta
 
 ### AWS Cloud Formation
 https://aws.amazon.com/pt/cloudformation/ | Provisionamento AWS
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-services-us-west-2.html | examples
+https://s3-us-west-2.amazonaws.com/cloudformation-templates-us-west-2/ElasticBeanstalk_Nodejs_Sample.template | EB with Node.JS
 
 ### AWS Step Functions
 
