@@ -30,3 +30,4 @@ https://cloudacademy.com/blog/aws-step-functions-a-serverless-orchestrator/ | AW
  
 http://www.allthingsdistributed.com | Amazom CTO talking about distributed systems.
 
+https://aws.amazon.com/blogs/compute/building-scalable-applications-and-microservices-adding-messaging-to-your-toolbox/ | AWS Messaging Systems Queue and Topic using SQS and SNS and differences with Kinesis.
