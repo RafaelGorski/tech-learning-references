@@ -12,6 +12,8 @@ https://s3-us-west-2.amazonaws.com/cloudformation-templates-us-west-2/ElasticBea
 
 https://www.udemy.com/aws-step-functions/learn/v4/overview | Serverless Workflow Management with AWS Step Functions
 
+### AWS Aurora
+http://www.allthingsdistributed.com/files/p1041-verbitski.pdf | Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases
 
 # Papers
 
@@ -31,3 +33,5 @@ https://cloudacademy.com/blog/aws-step-functions-a-serverless-orchestrator/ | AW
 http://www.allthingsdistributed.com | Amazom CTO talking about distributed systems.
 
 https://aws.amazon.com/blogs/compute/building-scalable-applications-and-microservices-adding-messaging-to-your-toolbox/ | AWS Messaging Systems Queue and Topic using SQS and SNS and differences with Kinesis.
+
+https://aws.amazon.com/blogs/database/amazon-aurora-under-the-hood-quorum-and-correlated-failure/ | AWS Aurora
