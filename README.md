@@ -13,7 +13,7 @@ https://s3-us-west-2.amazonaws.com/cloudformation-templates-us-west-2/ElasticBea
 https://www.udemy.com/aws-step-functions/learn/v4/overview | Serverless Workflow Management with AWS Step Functions
 
 ### AWS Aurora
-http://www.allthingsdistributed.com/files/p1041-verbitski.pdf | Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases
+http://www.allthingsdistributed.com/files/p1041-verbitski.pdf & http://dl.acm.org/citation.cfm?doid=3035918.3056101 | Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases
 
 # Papers
 
