@@ -3,6 +3,11 @@ Open repository with list of blogs, books, courses and examples to learn AWS sta
 
 ## AWS Modules
 
+# AWS JS Programming References
+http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/
+https://github.com/aws/aws-sdk-js
+
+
 ### AWS Cloud Formation
 https://aws.amazon.com/pt/cloudformation/ | Provisionamento AWS
 http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-services-us-west-2.html | examples
