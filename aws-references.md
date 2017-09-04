@@ -3,7 +3,9 @@ Open repository with list of blogs, books, courses and examples to learn AWS sta
 
 ## AWS Modules
 
-# AWS JS Programming References
+https://www.expeditedssl.com/aws-in-plain-english
+
+### AWS JS Programming References
 http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/
 https://github.com/aws/aws-sdk-js
 
@@ -34,7 +36,9 @@ https://cloudacademy.com/blog/aws-step-functions-a-serverless-orchestrator/ | AW
 
 
 # Blogs
- 
+
+https://github.com/open-guides | Good and complete AWS Resource
+
 http://www.allthingsdistributed.com | Amazom CTO talking about distributed systems.
 
 https://aws.amazon.com/blogs/compute/building-scalable-applications-and-microservices-adding-messaging-to-your-toolbox/ | AWS Messaging Systems Queue and Topic using SQS and SNS and differences with Kinesis.
