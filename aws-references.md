@@ -2,7 +2,7 @@
 Open repository with list of blogs, books, courses and examples to learn AWS stack.
 
 ## Price Calculation
-https://hackernoon.com/@theburningmonk
+http://serverlesscalc.com/# | Serverless calculation
 
 
 ## AWS Modules
