@@ -9,4 +9,4 @@ My curated list of important links about microservices systems.
 
  - https://stripe.com/blog/api-versioning | API Versioning from Stripe.com.
  
- - http://wiremock.org and https://github.com/tomakehurst/wiremock | Testing for http based APIs
+ - http://wiremock.org and https://github.com/tomakehurst/wiremock | Testing for http based APIs - Java 8 + Gradle 
